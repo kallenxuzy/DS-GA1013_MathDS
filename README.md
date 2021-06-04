@@ -1,1 +1,1 @@
-# DS-GA1013_MAthDS
+# DS-GA1013_MathDS
